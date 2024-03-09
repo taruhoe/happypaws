@@ -53,8 +53,8 @@
     "uniqCompNum": 43,
     "versionPublish": "5.9.13",
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "wp7immsqyu",
+    "favicon": "@PROJECT_PATH@/assets/images/logounname-128x128_2.png",
+    "mbrsiteDomain": "5etsv13msm",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -72,7 +72,9 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-search-grid-200x132.png"
       },
       "components": [
         {
