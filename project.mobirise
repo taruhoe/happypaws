@@ -74,7 +74,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/thumnail-680x335.png"
       },
       "components": [
         {
