@@ -63,7 +63,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -74,8 +74,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/thumnail-680x335.png"
+        "socialSharingUrl": ""
       },
       "components": [
         {
