@@ -63,13 +63,13 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Happy Paws",
         "meta_descr": "Happy Paws delivers pet grooming services and essentials right to you, ideal for busy city life. We save you from long waits and traffic for your pet's salon needs. Booking with us is a breeze.",
         "header_custom": "",
         "footer_custom": "",
