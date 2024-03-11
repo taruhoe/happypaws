@@ -53,7 +53,7 @@
     "uniqCompNum": 43,
     "versionPublish": "5.9.13",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/logounname-128x128_6.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logounname-128x128_7.png",
     "mbrsiteDomain": "l3ca1g39p5",
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -1337,8 +1337,9 @@
     },
     "doggrooming.html": {
       "settings": {
-        "title": "Dog grooming",
-        "order": "4"
+        "title": "Happy Paws Dog Grooming",
+        "order": "4",
+        "meta_descr": "Dog hygiene safeguards both your pet's and family's health by curtailing bacteria that hide in fur and mouths. Bad odor might signal grooming-time. Happy Paws provides professional services, from brushing and shampooing to nail trimming and teeth cleaning. Consult our rate card for specifics. Our certified groomer, with a decade's experience with various breeds, prioritizes quality service over quick sessions, focusing on your pet's emotional comfort too. Choose Happy Paws for caring, comprehensive grooming."
       },
       "components": [
         {
@@ -2392,8 +2393,9 @@
     },
     "catgrooming.html": {
       "settings": {
-        "title": "Cat grooming",
-        "order": "5"
+        "title": "Happy Paws Cat Grooming",
+        "order": "5",
+        "meta_descr": "Whilst cats are self-grooming creatures, regular professional care ensures optimal cleanliness, prevents fur matting, and guards against pests, particularly in long-haired varieties. With Happy Paws, your feline friend receives mindful grooming in our equipped mobile unit. We prioritize your cat's comfort, taking time to play before grooming—a service often skipped due to volume elsewhere. Choose us for your cat's well-being and enjoy our distinct value add-ons in each session."
       },
       "components": [
         {
@@ -3447,8 +3449,9 @@
     },
     "generalhappypaws.html": {
       "settings": {
-        "title": "general",
-        "order": "1"
+        "title": "Happy Paws General",
+        "order": "1",
+        "meta_descr": "As a pet owner, you're everything to your pet. We share the nurturing task with you, adapting to distinctive pet behaviors with a strict grooming SOP for everyone's safety and joy. To learn about our services, simply reach out and our quick-response team will assist you promptly."
       },
       "components": [
         {
@@ -4446,8 +4449,9 @@
     },
     "contactushappypaws.html": {
       "settings": {
-        "title": "Contact Us",
-        "order": "2"
+        "title": "Happy Paws Contact Us",
+        "order": "2",
+        "meta_descr": "Happy Paws delivers pet grooming services and essentials right to you. Booking with us now."
       },
       "components": [
         {
@@ -5432,8 +5436,9 @@
     },
     "aboutushappypaws.html": {
       "settings": {
-        "title": "About Us",
-        "order": "3"
+        "title": "Happy Paws About Us",
+        "order": "3",
+        "meta_descr": "Happy Paws, a passionate Malaysian team, provides premium mobile grooming services for your pets. We save you time and energy by bringing our fully-equipped grooming truck to your door. Our unique service allows you to continue with your daily tasks, while we attend to your pets – keeping your home fur-free. Opt for Happy Paws for high-quality, convenient grooming that always puts your and your furry friend's needs first."
       },
       "components": [
         {
